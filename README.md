@@ -30,5 +30,5 @@ Soon here will be more 😉
 
 
 ---
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs?username=RipperMode&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rppmde&layout=compact&hide_title=true&langs_count=5&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=rppmde&layout=compact&hide_title=true&langs_count=5&theme=swift)
 ---

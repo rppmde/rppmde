@@ -1,4 +1,4 @@
-# RipperMode
+# rppmde
 
 **`Software developer (Developer\Scholar\Designer)`**
 

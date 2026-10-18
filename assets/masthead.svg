@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="128" viewBox="0 0 820 128" role="img" aria-label="rppmde systems tooling experiments">
+<rect width="820" height="128" fill="#0d1117"/>
+<path d="M0 5H820M0 124H820" stroke="#2a3443" stroke-width="1"/>
+<path d="M0 5H172" stroke="#1674ff" stroke-width="4"/>
+<path d="M643 7h48l-19 17h-48zm57 0h48l-19 17h-48zm57 0h48l-19 17h-48z" fill="#1674ff"/>
+<text x="18" y="79" fill="#f8f6ef" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" letter-spacing="-5">RPPMDE</text>
+<text x="22" y="109" fill="#bed0db" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="600">systems  /  tooling  /  experiments</text>
+<path d="M634 53h162" stroke="#36485b" stroke-width="1"/>
+<text x="638" y="70" fill="#33efa0" font-family="monospace" font-size="12">BUILD  /  EXPLORE</text>
+<text x="638" y="89" fill="#f8f6ef" font-family="monospace" font-size="12">LEARN  /  REPEAT</text>
+<path d="M778 105h34" stroke="#ff6a00" stroke-width="5"/>
+<path d="M605 28v16m-8-8h16" stroke="#9daec4" stroke-width="1"/>
+</svg>

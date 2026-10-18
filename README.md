@@ -1,23 +1,62 @@
-# rppmde
+<!-- rppmde / profile README — editable GitHub-native content -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/masthead.svg" /><img src="./assets/masthead.svg" alt="rppmde — systems, tooling, experiments" width="820" /></picture>
 
-**`Software developer (Developer\Scholar\Designer)`**
+### <img src="https://img.shields.io/badge/%20-32FEA1?style=flat-square" height="10" alt="" /> About
 
-I'm an software developer seeking to grow my skills with professionals, automate the boring stuff and help people live their best life.
-Soon here will be more 😉
+I work with software, systems, and the tools that connect them. I'm interested in infrastructure, automation, networking, and making useful things work.
 
-#hireme
+Curiosity first. Real projects over impressive-looking technology lists.
 
----
-## 🛠️ Tools
+### <img src="https://img.shields.io/badge/%20-FF6A00?style=flat-square" height="10" alt="" /> Focus
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-<br/>
+<table>
+<tr>
+<td valign="top" width="50%">
 
+**WORKING ON**
 
----
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rppmde&layout=compact&hide_title=true&langs_count=5&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=rppmde&layout=compact&hide_title=true&langs_count=5&theme=swift)
----
+```text
+> building useful tools
+> experimenting with Go and Python
+> understanding infrastructure
+> learning by working on real systems
+```
+
+</td>
+<td valign="top" width="50%">
+
+**AREAS OF INTEREST**
+
+```text
+01  Systems and operations
+02  Networking and security
+03  Backend and data
+04  Automation and tooling
+```
+
+</td>
+</tr>
+</table>
+
+### <img src="https://img.shields.io/badge/%20-32FEA1?style=flat-square" height="10" alt="" /> Selected work
+
+| Repository | What it is |
+| :--- | :--- |
+| **[studio14-demo](https://github.com/rppmde/studio14-demo)** | Website demo for Studio 14 by Arthur. |
+| **[api-toy](https://github.com/rppmde/api-toy)** | A small Go API project using Gin, SQLite, and a worker queue. |
+| **[web-scraper](https://github.com/rppmde/web-scraper)** | A web scraping experiment. |
+
+### <img src="https://img.shields.io/badge/%20-0066FF?style=flat-square" height="10" alt="" /> Tools & technologies
+
+A curated selection of languages, tools, and technologies I use or explore. This isn't a proficiency ranking.
+
+<table>
+<tr><td align="center" width="12.5%"><img src="./assets/tools/go.svg" width="88" alt="Go"/></td><td align="center" width="12.5%"><img src="./assets/tools/python.svg" width="88" alt="Python"/></td><td align="center" width="12.5%"><img src="./assets/tools/typescript.svg" width="88" alt="TypeScript"/></td><td align="center" width="12.5%"><img src="./assets/tools/swift.svg" width="88" alt="Swift"/></td><td align="center" width="12.5%"><img src="./assets/tools/c.svg" width="88" alt="C"/></td><td align="center" width="12.5%"><img src="./assets/tools/nextjs.svg" width="88" alt="Next.js"/></td><td align="center" width="12.5%"><img src="./assets/tools/postgresql.svg" width="88" alt="PostgreSQL"/></td><td align="center" width="12.5%"><img src="./assets/tools/terraform.svg" width="88" alt="Terraform"/></td></tr>
+<tr><td align="center" width="12.5%"><img src="./assets/tools/linux.svg" width="88" alt="Linux"/></td><td align="center" width="12.5%"><img src="./assets/tools/bash.svg" width="88" alt="Bash"/></td><td align="center" width="12.5%"><img src="./assets/tools/docker.svg" width="88" alt="Docker"/></td><td align="center" width="12.5%"><img src="./assets/tools/actions.svg" width="88" alt="GitHub Actions"/></td><td align="center" width="12.5%"><img src="./assets/tools/networking.svg" width="88" alt="Networking"/></td><td align="center" width="12.5%"><img src="./assets/tools/nginx.svg" width="88" alt="Nginx"/></td><td align="center" width="12.5%"><img src="./assets/tools/wireshark.svg" width="88" alt="Wireshark"/></td><td align="center" width="12.5%"><img src="./assets/tools/observability.svg" width="88" alt="Prometheus + Grafana"/></td></tr>
+</table>
+
+### <img src="https://img.shields.io/badge/%20-F8F6EF?style=flat-square" height="10" alt="" /> Connect
+
+[**GitHub**](https://github.com/rppmde) · [**Studio 14 demo**](https://rppmde.github.io/studio14-demo/en/index.html)
+
+<sub>RPPMDE // SYSTEMS · TOOLING · EXPERIMENTS</sub>

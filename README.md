@@ -12,7 +12,7 @@ I work with software, systems, and the tools that connect them. I'm interested i
 <p><samp>
 &gt; Build useful tools<br/>
 &gt; Explore Go and Python<br/>
-&gt; Understand infrastructure<br/>
+&gt; Learn infrastructure<br/>
 &gt; Work on real systems
 </samp></p>
 </td>

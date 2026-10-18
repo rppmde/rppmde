@@ -9,21 +9,21 @@ I work with software, systems, and the tools that connect them. I'm interested i
 <tr>
 <td valign="top" width="50%">
 <strong>WORKING ON</strong>
-<p>
-<code>&gt; building useful tools</code><br/>
-<code>&gt; experimenting with Go and Python</code><br/>
-<code>&gt; understanding infrastructure</code><br/>
-<code>&gt; learning by working on real systems</code>
-</p>
+<p><samp>
+&gt; Build useful tools<br/>
+&gt; Explore Go and Python<br/>
+&gt; Understand infrastructure<br/>
+&gt; Work on real systems
+</samp></p>
 </td>
 <td valign="top" width="50%">
 <strong>AREAS OF INTEREST</strong>
-<p>
-<code>01</code> Systems and operations<br/>
-<code>02</code> Networking and security<br/>
-<code>03</code> Backend and data<br/>
-<code>04</code> Automation and tooling
-</p>
+<p><samp>
+01&nbsp; Systems &amp; operations<br/>
+02&nbsp; Networking &amp; security<br/>
+03&nbsp; Backend &amp; data<br/>
+04&nbsp; Automation &amp; tooling
+</samp></p>
 </td>
 </tr>
 </table>

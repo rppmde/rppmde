@@ -3,8 +3,6 @@
 
 I work with software, systems, and the tools that connect them. I'm interested in infrastructure, automation, networking, and making useful things work.
 
-Curiosity first. Real projects over impressive-looking technology lists.
-
 ### <img src="https://img.shields.io/badge/%20-FF6A00?style=flat-square" height="10" alt="" /> Focus
 
 <table>

@@ -39,11 +39,23 @@ Curiosity first. Real projects over impressive-looking technology lists.
 ### <img src="https://img.shields.io/badge/%20-32FEA1?style=flat-square" height="10" alt="" /> Selected work
 
 <table>
-<tr>
-<td width="33%" valign="top"><a href="https://github.com/rppmde/api-toy"><img src="./assets/projects/api-toy.svg" alt="api-toy: Go REST API using Gin, SQLite, a worker queue, and tests" width="290" /></a></td>
-<td width="33%" valign="top"><a href="https://github.com/rppmde/web-scraper"><img src="./assets/projects/web-scraper.svg" alt="web-scraper: Python experiment using Requests, Beautiful Soup, and pandas" width="290" /></a></td>
-<td width="33%" valign="top"><a href="https://github.com/rppmde/jsthingsthatiuse"><img src="./assets/projects/jsthingsthatiuse.svg" alt="jsthingsthatiuse: JavaScript UI experiments" width="290" /></a></td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <p>▣ <strong><a href="https://github.com/rppmde/api-toy">api-toy</a></strong> <sub>Public</sub></p>
+      <p>Go REST API built with Gin, SQLite, a worker queue, and tests.</p>
+      <p><sub><code>Go</code> · Gin · SQLite</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <p>▣ <strong><a href="https://github.com/rppmde/web-scraper">web-scraper</a></strong> <sub>Public</sub></p>
+      <p>Python scraping experiment using Requests, Beautiful Soup, and pandas.</p>
+      <p><sub><code>Python</code> · Beautiful Soup</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <p>▣ <strong><a href="https://github.com/rppmde/jsthingsthatiuse">jsthingsthatiuse</a></strong> <sub>Public</sub></p>
+      <p>Small JavaScript interface and interaction experiments.</p>
+      <p><sub><code>JavaScript</code> · HTML · CSS</sub></p>
+    </td>
+  </tr>
 </table>
 
 ### <img src="https://img.shields.io/badge/%20-0066FF?style=flat-square" height="10" alt="" /> Tools & technologies

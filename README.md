@@ -58,27 +58,3 @@ A curated selection of languages, tools, and technologies I use or explore. This
 <tr><td align="center" width="12.5%"><img src="./assets/tools/go.svg" width="88" alt="Go"/></td><td align="center" width="12.5%"><img src="./assets/tools/python.svg" width="88" alt="Python"/></td><td align="center" width="12.5%"><img src="./assets/tools/typescript.svg" width="88" alt="TypeScript"/></td><td align="center" width="12.5%"><img src="./assets/tools/swift.svg" width="88" alt="Swift"/></td><td align="center" width="12.5%"><img src="./assets/tools/c.svg" width="88" alt="C"/></td><td align="center" width="12.5%"><img src="./assets/tools/nextjs.svg" width="88" alt="Next.js"/></td><td align="center" width="12.5%"><img src="./assets/tools/postgresql.svg" width="88" alt="PostgreSQL"/></td><td align="center" width="12.5%"><img src="./assets/tools/terraform.svg" width="88" alt="Terraform"/></td></tr>
 <tr><td align="center" width="12.5%"><img src="./assets/tools/linux.svg" width="88" alt="Linux"/></td><td align="center" width="12.5%"><img src="./assets/tools/bash.svg" width="88" alt="Bash"/></td><td align="center" width="12.5%"><img src="./assets/tools/docker.svg" width="88" alt="Docker"/></td><td align="center" width="12.5%"><img src="./assets/tools/cicd.svg" width="88" alt="CI/CD"/></td><td align="center" width="12.5%"><img src="./assets/tools/networking.svg" width="88" alt="Networking"/></td><td align="center" width="12.5%"><img src="./assets/tools/nginx.svg" width="88" alt="Nginx"/></td><td align="center" width="12.5%"><img src="./assets/tools/wireshark.svg" width="88" alt="Wireshark"/></td><td align="center" width="12.5%"><img src="./assets/tools/observability.svg" width="88" alt="Prometheus + Grafana"/></td></tr>
 </table>
-
-
-### <img src="https://img.shields.io/badge/%20-F8F6EF?style=flat-square" height="10" alt="" /> Connect
-
-<table>
-<tr>
-<td width="74%" valign="middle">
-<table>
-<tr>
-<td align="center" valign="middle"><strong>↗ Website</strong></td>
-<td align="center" valign="middle"><strong>𝕏 X (Twitter)</strong></td>
-<td align="center" valign="middle"><strong>in LinkedIn</strong></td>
-<td align="center" valign="middle"><strong>✉ Email</strong></td>
-</tr>
-</table>
-</td>
-<td width="26%" valign="middle">
-<code>BUILDING</code><br/>
-<code>A MORE OPEN</code><br/>
-<code>AND INTERESTING</code><br/>
-<code>TOMORROW.</code>
-</td>
-</tr>
-</table>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="90" viewBox="0 0 96 90" role="img" aria-label="CI/CD">
+<rect x="1" y="1" width="94" height="88" rx="5" fill="#0d1621" stroke="#34475a"/>
+<path d="M10 8h22" stroke="#6BA4FF" stroke-width="3"/>
+<g fill="none" stroke="#6BA4FF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="24" cy="29" r="5"/><circle cx="47" cy="29" r="5"/><circle cx="70" cy="46" r="5"/>
+<path d="M29 29h13M52 32l13 11M24 34v14h45"/>
+<path d="M64 43l6 3-6 4"/>
+</g>
+<text x="48" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="600" fill="#eaf1f6">CI/CD</text>
+<path d="M9 79h78" stroke="#2a3949"/>
+</svg>

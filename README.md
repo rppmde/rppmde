@@ -8,28 +8,22 @@ I work with software, systems, and the tools that connect them. I'm interested i
 <table>
 <tr>
 <td valign="top" width="50%">
-
-**WORKING ON**
-
-```text
-> building useful tools
-> experimenting with Go and Python
-> understanding infrastructure
-> learning by working on real systems
-```
-
+<strong>WORKING ON</strong>
+<p>
+<code>&gt; building useful tools</code><br/>
+<code>&gt; experimenting with Go and Python</code><br/>
+<code>&gt; understanding infrastructure</code><br/>
+<code>&gt; learning by working on real systems</code>
+</p>
 </td>
 <td valign="top" width="50%">
-
-**AREAS OF INTEREST**
-
-```text
-01  Systems and operations
-02  Networking and security
-03  Backend and data
-04  Automation and tooling
-```
-
+<strong>AREAS OF INTEREST</strong>
+<p>
+<code>01</code> Systems and operations<br/>
+<code>02</code> Networking and security<br/>
+<code>03</code> Backend and data<br/>
+<code>04</code> Automation and tooling
+</p>
 </td>
 </tr>
 </table>

@@ -54,5 +54,3 @@ A curated selection of languages, tools, and technologies I use or explore. This
 </table>
 
 ### <img src="https://img.shields.io/badge/%20-F8F6EF?style=flat-square" height="10" alt="" /> Connect
-
-<sub>RPPMDE // SYSTEMS · TOOLING · EXPERIMENTS</sub>
